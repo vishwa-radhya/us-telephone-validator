@@ -148,7 +148,7 @@ button{
     align-items: center;
     justify-content: center;
   }
- @media screen and (max-width:390px){
+ @media screen and (max-width:430px){
     body{
         display: flex;
         flex-direction:column;

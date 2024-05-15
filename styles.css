@@ -133,7 +133,7 @@ button{
     /* border: 1px solid; */
   }
   
-  button:hover{
+  button:active{
       background: #03e9f4;
       color: #050801;
       scale: 1.04;
